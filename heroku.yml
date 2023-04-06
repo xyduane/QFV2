@@ -3,4 +3,4 @@ build:
     - go
 
 run:
-  web: cokeV2ray
+  web: QFV2
