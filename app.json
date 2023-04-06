@@ -1,6 +1,6 @@
 {
-  "name": "cokeV2ray",
-  "description": "cokeV2ray",
+  "name": "QFV2",
+  "description": "QFV2",
   "env": {
     "UUID": {
       "description": "id，根据实际情况修改 生成网站 https://www.uuidgenerator.net/",
